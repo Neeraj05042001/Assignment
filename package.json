@@ -1,0 +1,34 @@
+{
+  "name": "episode-03",
+  "version": "1.0.0",
+  "description": "Episode 04 Talk is Cheap, Show me the Code",
+  "main": "script.js",
+  "scripts": {
+    "start": "npx parcel index.html",
+    "build": "npx parcel build index.html",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/Neeraj05042001/Assignment.git"
+  },
+  "keywords": [
+    "React",
+    "Assignment",
+    "Episode-04"
+  ],
+  "author": "Neeraj",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Neeraj05042001/Assignment/issues"
+  },
+  "homepage": "https://github.com/Neeraj05042001/Assignment#readme",
+  "devDependencies": {
+    "parcel": "^2.13.3",
+    "process": "^0.11.10"
+  },
+  "dependencies": {
+    "react": "^19.0.0",
+    "react-dom": "^19.0.0"
+  }
+}
